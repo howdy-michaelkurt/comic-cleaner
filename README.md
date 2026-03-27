@@ -4,12 +4,13 @@ The purpose of this script is to help letter freinds who get all kinds of crazy 
 
 ## Requirements
 - python3
+- pip
 - pymupdf
 
 ## Setting up Python
 1. **Install Python**: download from [python.org](https://www.python.org/) and run the installer. Check "Add Python to PATH" during install.
 2. **Open Terminal** (mac) or **Command Prompt** (windows)
-3. **Install pymupdf**: use `pip install pymupdf` to install the package.
+3. **Install pymupdf**: use `pip install pymupdf` to install the package. (or `brew install pymupdf`)
 
 ## Setting up the script
 1. Make sure you're in the right folder `cd ~/your-folder/comic-cleaner`
