@@ -7,7 +7,7 @@ The purpose of this script is to help letter freinds who get all kinds of crazy 
 - pymupdf
 
 ## Setting up Python
-1. **Install Python**: download from python.org and run the installer. Check "Add Python to PATH" during install.
+1. **Install Python**: download from [python.org](https://www.python.org/) and run the installer. Check "Add Python to PATH" during install.
 2. **Open Terminal** (mac) or **Command Prompt** (windows)
 3. **Install pymupdf**: use `pip install pymupdf` to install the package.
 
