@@ -44,3 +44,12 @@ Samson is drawn forward by the big display in the middle of the  room.
 SAMSON
 What else was I supposed to do?
 ```
+## How to test if it's working
+I've included a pdf script created in Scrivener, using the comic script template. Feel free to use this as a test! 
+Here are the steps:
+1. Follow instructions on how to downlaod and install `Python` and `pymupdf`
+2. Download the repo and unzip (or clone it from Github)
+3. Ensure the terminal is pointed to the code - if on mac: Open Terminal > `cd` into the project folder
+4. Run the script! `python clean.py Ryker-2-comic.pdf`
+5. A new file will be created in that folder called `Ryker-2-comic-clean.txt`
+6. Check out the file!
