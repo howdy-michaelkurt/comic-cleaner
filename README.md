@@ -14,7 +14,7 @@ The purpose of this script is to help letter freinds who get all kinds of crazy 
 ## Setting up the script
 1. Make sure you're in the right folder `cd ~/your-folder/comic-cleaner`
 2. **Add the PDF to the same folder as `clean.py`** so the script knows where to extract the text from
-3. **Run the script** in the terminal by running `python clean.py your-file.pdf` (replace `your-file.pdf` with the title of your pdf file)
+3. **Run the script** in the terminal by running `python3 clean.py your-file.pdf` (replace `your-file.pdf` with the title of your pdf file)
 
 
 ## Input
@@ -49,6 +49,6 @@ Here are the steps:
 1. Follow instructions on how to downlaod and install `Python` and `pymupdf`
 2. Download the repo and unzip (or clone it from Github)
 3. Ensure the terminal is pointed to the code - if on mac: Open Terminal > `cd` into the project folder
-4. Run the script! `python clean.py Ryker-2-comic.pdf`
+4. Run the script! `python3 clean.py Ryker-2-comic.pdf`
 5. A new file will be created in that folder called `Ryker-2-comic-clean.txt`
 6. Check out the file!
